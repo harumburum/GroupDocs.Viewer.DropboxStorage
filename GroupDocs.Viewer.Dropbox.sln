@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupDocs.Viewer.Dropbox", "src\GroupDocs.Viewer.Dropbox.csproj", "{A4130B11-BD3D-467C-8375-D551B07DCE9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupDocs.Viewer.Dropbox.Tests", "test\GroupDocs.Viewer.Dropbox.Tests.csproj", "{54B809CC-0921-4DC7-A212-907FE24CF7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4130B11-BD3D-467C-8375-D551B07DCE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4130B11-BD3D-467C-8375-D551B07DCE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4130B11-BD3D-467C-8375-D551B07DCE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4130B11-BD3D-467C-8375-D551B07DCE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B809CC-0921-4DC7-A212-907FE24CF7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B809CC-0921-4DC7-A212-907FE24CF7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B809CC-0921-4DC7-A212-907FE24CF7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B809CC-0921-4DC7-A212-907FE24CF7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
